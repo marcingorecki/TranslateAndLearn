@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">TranslateAndLearn</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_translate">Translate</string>
+    <string name="translateFrom">Translate From</string>
+    <string name="translateTo">Translate to</string>
+    <string name="switchLang">&lt;-&gt;</string>
+    <string name="translateButton">Translate</string>
+
+</resources>
