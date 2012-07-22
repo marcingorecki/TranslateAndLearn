@@ -1,5 +1,4 @@
 <resources>
-
     <string name="app_name">TranslateAndLearn</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
@@ -8,5 +7,4 @@
     <string name="translateTo">Translate to</string>
     <string name="switchLang">&lt;-&gt;</string>
     <string name="translateButton">Translate</string>
-
 </resources>
