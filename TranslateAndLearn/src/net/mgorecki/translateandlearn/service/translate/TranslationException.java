@@ -1,4 +1,4 @@
-package net.mgorecki.translateandlearn.service;
+package net.mgorecki.translateandlearn.service.translate;
 
 public class TranslationException extends Exception {
 

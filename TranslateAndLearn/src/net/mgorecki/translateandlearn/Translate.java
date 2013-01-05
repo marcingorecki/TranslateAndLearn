@@ -1,9 +1,9 @@
 package net.mgorecki.translateandlearn;
 
 
-import net.mgorecki.translateandlearn.service.TranslationException;
-import net.mgorecki.translateandlearn.service.TranslationProvider;
-import net.mgorecki.translateandlearn.service.TranslationProviderFactory;
+import net.mgorecki.translateandlearn.service.translate.TranslationException;
+import net.mgorecki.translateandlearn.service.translate.TranslationProvider;
+import net.mgorecki.translateandlearn.service.translate.TranslationProviderFactory;
 import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;

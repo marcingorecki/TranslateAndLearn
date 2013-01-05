@@ -1,4 +1,4 @@
-package net.mgorecki.translateandlearn.service;
+package net.mgorecki.translateandlearn.service.translate;
 
 import java.io.IOException;
 import java.io.InputStream;

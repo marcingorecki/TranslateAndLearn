@@ -1,4 +1,4 @@
-package net.mgorecki.translateandlearn.service;
+package net.mgorecki.translateandlearn.service.translate;
 
 public class TranslationProviderFactory {
 	
@@ -6,7 +6,7 @@ public class TranslationProviderFactory {
 
 	public static TranslationProvider getTranslationProvider(){
 		if(provider==null){
-			provider = new BingTranslationProvider();
+			provider = new SqliteTranslationProvider();
 		}
 		return provider;
 	}
